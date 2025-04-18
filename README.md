@@ -43,7 +43,8 @@ To set up the project locally, follow these steps:
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
 ## License
-This project does not have a specified license. Feel free to use it as per your requirements.
+This project is licensed under the MIT License. You are free to use, modify, and distribute the software, provided that you include the original license notice in any copies or substantial portions of the software.
+
 
 ## Acknowledgements
 - Thanks to all contributors and the open-source community for their support.
